@@ -1,4 +1,4 @@
 ---
 ---
 # Note 1
-Hello I learned Jeckyll at Connect Tech
+Hello I learned Jekyll at Connect Tech
