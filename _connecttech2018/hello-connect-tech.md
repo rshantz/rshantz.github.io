@@ -1,4 +1,4 @@
 ---
 ---
-
-Hellow I learned Jeckyll at Connect Tech
+# Note 1
+Hello I learned Jeckyll at Connect Tech
