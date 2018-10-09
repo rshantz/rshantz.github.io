@@ -7,6 +7,6 @@ permalink: :collection
 All My Notes
 <ol>
   {% for item in site.connecttech2018 %}
-  <li><a href="{{item.url}}">{{ item.title }}</a></li>
-    {% endfor %}
-  </ol>
+    <li><a href="{{item.url}}">{{item.title}}</a></li>
+  {% endfor %}
+</ol>
